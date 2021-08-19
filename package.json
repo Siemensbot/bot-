@@ -1,7 +1,7 @@
 {
-  "name": "BetaBOT",
+  "name": "SiemensBot",
   "version": "1.0.0",
-  "description": "bot wa yang mudah untuk digunakan",
+  "description": "Saya bot hasil program keluarga berencana yang di program khusus layanan WhatsApp 🤗",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/Siemensbot/bot-"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/siemensbot/bot-/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "https://github.com/siemensbot/bot-#readme"
 }
